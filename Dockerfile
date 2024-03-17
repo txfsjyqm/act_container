@@ -1,4 +1,4 @@
-FROM docker.io/library/node:21.7.0-slim
+FROM docker.io/library/node:21.7.1-slim
 
 ENV DEBIAN_FRONTEND=noninteractive
 
